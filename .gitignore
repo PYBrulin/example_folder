@@ -17,5 +17,11 @@ codegen/
 ## Matlab autosave
 *.asv
 
+# Python 
+## Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Project
 feedback_control.txt
