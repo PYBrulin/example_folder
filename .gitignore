@@ -1,0 +1,21 @@
+
+# Matlab 
+## Simulink code generation folders
+slprj/
+calprj/
+sccprj/
+
+## Matlab code generation folders
+codegen/
+
+## Simulink autosave extension
+*.autosave
+
+## Simulink cache files
+*.slxc
+
+## Matlab autosave
+*.asv
+
+# Project
+feedback_control.txt
